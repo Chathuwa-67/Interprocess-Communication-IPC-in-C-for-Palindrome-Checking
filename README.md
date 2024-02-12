@@ -1,0 +1,2 @@
+# Interprocess-Communication-IPC-in-C-for-Palindrome-Checking
+This repository provides a simple implementation of Interprocess Communication (IPC) in C, specifically designed for the task of palindrome checking. The project consists of two processes - a parent process and a child process - communicating with each other through IPC mechanisms to determine whether a given input word is a palindrome or not.
